@@ -12,4 +12,5 @@ As I am beginner,it took almost 3 hour to complete  this project.
 **Note-**  This landing page is not mobile friendly.
 
 ![image](assets/screenshot.png)
+[Live-Link](https://food-restaurant-landing-page.netlify.app/)
 
